@@ -1,0 +1,14 @@
+#divPuntero {
+    border: 2px solid black;
+    width: 500px;
+    height: 500px;
+    margin: 2px;
+}
+
+#punteroSige {
+    border: 1px solid black;
+    width: 10px;
+    height: 10px;
+    border-radius: 20px;
+    background-color: black;
+}
