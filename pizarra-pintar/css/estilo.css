@@ -1,0 +1,21 @@
+#pizarra {
+    border: 2px solid black;
+    width: 500px;
+    height: 500px;
+    margin: 2px;
+    display: flex;
+    flex-flow: row wrap;
+}
+
+#pizarra > div {
+    width: 10px;
+    height: 10px;
+}
+
+#colorActualMues {
+    border: 2px solid black;
+    width: 100px;
+    height: 100px;
+    margin: 2px;
+    background-color: black;
+}
